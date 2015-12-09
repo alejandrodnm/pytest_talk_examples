@@ -1,0 +1,6 @@
+boto3==1.2.2
+ipython==4.0.1
+pytest==2.8.3
+pytest-cov==2.2.0
+pytest-mock==0.9.0
+pytest-poo==0.2
